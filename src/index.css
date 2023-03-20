@@ -36,14 +36,14 @@ button {
   border-radius: 20px;
 }
 
-.footer {
+/* .footer {
   display: grid;
   grid: 1fr/1fr 1fr 1fr;
-}
+} */
 
-.foot {
+/* .foot {
   margin-left: 20rem;
-}
+} */
 
 .navbg {
   background-image: url(./assets/Navbg.png);
